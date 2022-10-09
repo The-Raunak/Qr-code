@@ -1,0 +1,15 @@
+@media screen and (max-width: 376px){
+
+    .Qrcode{
+        width: 46vh;
+        height: 75vh;
+    }
+
+    .head{
+        
+        padding: 8px 32px;
+    }
+    .p{
+        padding: 8px 36px;
+    }
+}
